@@ -5,9 +5,9 @@ The backend is in Java, the frontend in TypeScript.
 
 Technologies used:
 
- -[Hilla](https://hilla.dev)<br>
- - Backend [Spring Boot](https://spring.io/projects/spring-boot) & [Project Reactor](https://projectreactor.io/)<br>
- - Frontend [Lit](https://lit.dev)<br>
+ - [Hilla](https://hilla.dev)<br>
+ - Backend: [Spring Boot](https://spring.io/projects/spring-boot) & [Project Reactor](https://projectreactor.io/)<br>
+ - Frontend: [Lit](https://lit.dev)<br>
 
 ## Requirements
 
