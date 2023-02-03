@@ -1,11 +1,11 @@
 # ChatSnap - A Reactive Spring chat web application
 
-This demo app shows how to build a simple full-stack reactive chat app using Hilla, Spring Boot, Project Reactor and Lit.
+This is a Full-stack reactive chat app built using Hilla, Spring Boot, Project Reactor and Lit.
 The backend is in Java, the frontend in TypeScript.
 
 Technologies used:
 
-- [Hilla](https://hilla.dev)
+ -- [Hilla](https://hilla.dev)
   -- Backend [Spring Boot](https://spring.io/projects/spring-boot) & [Project Reactor](https://projectreactor.io/)
   -- Frontend [Lit](https://lit.dev)
 
