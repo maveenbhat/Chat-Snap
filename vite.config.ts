@@ -1,3 +1,4 @@
+"Komment Demo Task"
 import { UserConfigFn } from 'vite';
 import { overrideVaadinConfig } from './vite.generated';
 
